@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, this is Hamid Ahmed</h1>
+![logo](https://github.com/hamidshykh/hamidshykh/blob/main/template.png)
+
+<h1 align="center">Hi 👋, This is Hamid Ahmed</h1>
 <h3 align="center">A Passionate Coder & Tech Enthusiast <br><br> <p><a href="https://www.buymeacoffee.com/hamidshykh"> <img 
           src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="hamidshykh" /></a></p></h3>
