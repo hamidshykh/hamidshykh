@@ -113,7 +113,4 @@ at info.cern.ch.**
             height="40" /> </a> </p>
 
 <h3 align="left">Support:</h3>
-<br><br>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshykh&" alt="hamidshykh" /></p>
