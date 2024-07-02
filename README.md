@@ -1,4 +1,4 @@
-![logo](https://github.com/hamidshykh/hamidshykh/blob/main/template.png)
+![logo]([https://github.com/hamidshykh/hamidshykh/blob/main/template.png](https://github.com/hamidshykh/hamidshykh/blob/main/template%20(1).png))
 
 <h1 align="center">Hi 👋, This is Hamid Ahmed</h1>
 <h3 align="center">A Passionate Coder & Tech Enthusiast <br><br> <p><a href="https://buymeacoffee.com/hamidshykh"> <img 
