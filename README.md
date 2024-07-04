@@ -1,16 +1,13 @@
 ![logo](assets/images/template-2.jpeg)
 
 <h1 align="center">Hi 👋, This is Hamid Ahmed</h1>
-<h3 align="center">A Passionate Coder & Tech Enthusiast <br><br> <p><a href="https://buymeacoffee.com/hamidshykh"> <img 
-          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="hamidshykh" /></a></p></h3>
-
+<h3 align="center">A Passionate Coder & Tech Enthusiast</h3>
+<br>
 
 <img align="right" width="400" alt="giff" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF6ZXpzMmtudTlteHF0dzhzZTl6MWo4enlyZnEzdm1rZ2JtZXBjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidshykh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="hamidshykh" /> </p>
+
 
 - 🔭 I'm currently diving deep into **Software Architecture.**
 
@@ -120,8 +117,13 @@ at info.cern.ch.**
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshykh&" alt="hamidshykh" /></p>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=hamidshykh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamidshykh&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
