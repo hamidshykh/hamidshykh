@@ -16,6 +16,8 @@
 
 - 🌱 I’m currently learning **Data Sciene and Api development**
 
+- 🎯 Achievement **Successfully attained an Advanced Diploma in Software Engineering, demonstrating expertise and a comprehensive understanding of modern software development methodologies and technologies** 
+
 - 💬 Ask me about **website development, mobile app creation, and my current work on
 generative AI projects. I'm excited to share my journey and insights with you!**
 
