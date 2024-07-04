@@ -1,4 +1,4 @@
-![logo](https://github.com/hamidshykh/hamidshykh/blob/main/template.png)
+![logo](assets/images/template-2.jpeg)
 
 <h1 align="center">Hi 👋, This is Hamid Ahmed</h1>
 <h3 align="center">A Passionate Coder & Tech Enthusiast <br><br> <p><a href="https://buymeacoffee.com/hamidshykh"> <img 
@@ -124,5 +124,5 @@ at info.cern.ch.**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshykh&" alt="hamidshykh" /></p>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
