@@ -42,6 +42,10 @@ at info.cern.ch.**
             alt="hamid._.shykh" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamidshykh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
