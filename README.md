@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidshykh&label=Profile%20views&color=0e75b6&style=flat"
         alt="hamidshykh" /> </p>
 
-- 🔭 I'm currently diving deep into **Software Architecture**
+- 🔭 I'm currently diving deep into **Software Architecture.**
 
-- 🌱 I’m currently learning **Data Sciene and Api development**
+- 🌱 I’m currently learning **Data Sciene and Api development.**
 
-- 🎯 Achievement **Successfully attained an Advanced Diploma in Software Engineering, demonstrating expertise and a comprehensive understanding of modern software development methodologies and technologies** 
+- 🎯 Achievement **Successfully attained an Advanced Diploma in Software Engineering, demonstrating expertise and a comprehensive understanding of modern software development methodologies and technologies.** 
 
 - 💬 Ask me about **website development, mobile app creation, and my current work on
 generative AI projects. I'm excited to share my journey and insights with you!**
