@@ -1,6 +1,6 @@
 ![logo](assets/images/template-2.jpeg)
 
-<h1 align="center">Hi 👋, This is Hamid Ahmed</h1>
+<h1 align="center">Hi 👋, This is Hamid Ahmed Shaikh</h1>
 <h3 align="center">A Passionate Coder & Tech Enthusiast</h3>
 <br>
 
