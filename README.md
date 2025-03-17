@@ -1,4 +1,4 @@
-![logo](assets/images/template-2.jpeg)
+![logo]()
 
 <h1 align="center">Hi 👋, This is Hamid Ahmed Shaikh</h1>
 <h3 align="center">A Passionate Coder & Tech Enthusiast</h3>
